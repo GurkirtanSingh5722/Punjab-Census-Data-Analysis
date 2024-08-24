@@ -41,14 +41,14 @@ The dataset used in this analysis contains the following columns:
 
 1. **Data Cleaning:** 
    - Filtering the dataset to focus on census years from 1951 to 2011.
-   - Handling missing data using extrapolation methods.
+   - Changing data types using powerquery 
 
-2. **Data Analysis:**
+3. **Data Analysis:**
    - **Growth Rate Calculation:** Calculating the population growth rate across different census years.
    - **Sex Ratio Analysis:** Analyzing the variation in sex ratios across districts and over time.
    - **Statistical Testing:** Performing hypothesis testing, including ANOVA, to determine significant differences in sex ratios and population growth.
 
-3. **Visualization:** 
+4. **Visualization:** 
    - Creating visual representations of the data using Power BI to help identify trends and patterns.
 
 ## Analysis
@@ -76,7 +76,8 @@ A Power BI dashboard has been created to provide an interactive visualization of
 
 ## Results
 
-The analysis revealed significant variations in sex ratios across different districts. The growth rate analysis showed consistent population increases across most districts, with some notable exceptions.
+The analysis revealed significant variations in sex ratios across different districts. The growth rate analysis showed consistent population increases across most districts, with some notable exceptions.Also the cities of Amritsar and Gurdaspur showed major decline in population from 1941 to 1951 after independence due to dislocation of people and other reasons as well.
+
 
 ## How to Use
 
